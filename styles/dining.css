@@ -1,0 +1,17 @@
+.left {
+    display: flex;
+    align-items:center;
+    margin-left: 2%;
+    vertical-align:middle;
+}
+
+.span {
+    margin-left: 2%;
+}
+
+.right {
+    display: flex;
+    margin-right: 2%;
+    align-items:center;
+    vertical-align: middle;
+}

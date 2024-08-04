@@ -1,0 +1,38 @@
+.left {
+    display: flex;
+    align-items:center;
+    margin-left: 1%;
+    vertical-align:middle;
+}
+
+.span-left{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.right {
+    display: flex;
+    margin-right: 2%;
+    align-items:center;
+    vertical-align: middle;
+}
+
+.span-right {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.bus-image {
+    height: 150px;
+    width: 260px;
+}
+
+.ship-image {
+    height: 260px;
+    width: 260px;
+}
+
+p {
+    margin-left: 5%;
+    margin-right: 5%;
+}

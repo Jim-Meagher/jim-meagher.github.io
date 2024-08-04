@@ -1,0 +1,27 @@
+.left {
+    display: flex;
+    align-items:center;
+    margin-left: 2%;
+    vertical-align:middle;
+}
+
+.span {
+    margin-left: 2%;
+}
+
+.image {
+    height: 400px;
+    width: 600px;
+}
+
+.right {
+    display: flex;
+    margin-right: 2%;
+    align-items:center;
+    vertical-align: middle;
+}
+
+.image-hiking {
+    width: 300px;
+    height: 300px;
+}
