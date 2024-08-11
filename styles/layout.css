@@ -15,43 +15,10 @@ hr {
     border-top: 1px solid black;
 }
 
-.navigation-header {
-    padding: 15px 100px 0 10px;
-    height: 200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /*background: #6699CC;*/
-}
-
-.header_button {
-    height: 40px;
-    width: 140px;
-    background: #676767;
-    font-size: 15px;
-    text-align: center;
-    color: #d3d3d3;
-    border-radius: 12px;
-}
-
-.navigation-items {
-    display: flex;
-    gap: 15px;
-}
-
-.logo-container {
-     width: 30%;
-}
 
 h1 {
     font-size: 40px;
     text-align: center;
-}
-
-.footer {
-    font-size: 15px ;
-    text-align:center;
-    margin-bottom: 30px;
 }
 
 
