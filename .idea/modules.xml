@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/jim-meagher.github.io.iml" filepath="$PROJECT_DIR$/.idea/jim-meagher.github.io.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Taniti_D497.iml" filepath="$PROJECT_DIR$/Taniti_D497.iml" />
+>>>>>>> master
     </modules>
   </component>
 </project>
